@@ -1,6 +1,6 @@
 # HR Workforce Analytics — End-to-End Data Pipeline
 
-## The business problem (real numbers from 8,950 employees)
+## The business problem
 
 This project starts from three uncomfortable findings buried in HR data that
 most dashboards don't surface — because they require transformation logic,
